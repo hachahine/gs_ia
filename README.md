@@ -136,5 +136,6 @@ O deploy desta API foi realizado no **Azure Web App* utilizando um contêiner Do
 * **Plano de Serviço:** `gs-python-plan-free`
 * **Grupo de Recursos:** `rg-gs`
 * **Imagem Docker:** `hachahine/gs_ai_api:latest`
-* **Endpoint (Prod):** `https://pythonaigs.azurewebsites.net`
+* **Endpoint (Prod):** `https://pythongsai.azurewebsites.net`
+
 
